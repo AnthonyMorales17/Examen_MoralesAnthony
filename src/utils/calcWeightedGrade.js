@@ -1,4 +1,5 @@
 // Calcula la nota ponderada
+// Recibe un arreglo de items con score y weight
 function calcWeightedGrade(items) {
     // Validar que items sea un arreglo
     if (!Array.isArray(items)) {
